@@ -2,6 +2,8 @@
 
 9 年经验的前端 / 全栈工程师，最近在做 AI Agent 与全栈平台。
 
+📋 完整作品集（面试官速览 + 项目详解）→ https://github.com/zzlw/portfolio
+
 ![Gavin's GitHub stats](https://stats.jiawen.live/api?username=zzlw&show_icons=true)
 
 **代表作**
