@@ -8,7 +8,7 @@
 
 📋 作品集 → https://github.com/zzlw/portfolio
 
-![Gavin's GitHub stats](https://stats.jiawen.live/api?username=zzlw&show_icons=true)
+![Gavin's GitHub stats](assets/github-stats.svg)
 
 **代表作**
 
