@@ -4,7 +4,7 @@
 
 <h3 align="center">Hi there, I'm Gavin</h3>
 
-<p align="center">9 年经验的前端 / 全栈工程师，最近在做 AI Agent 与全栈平台。</p>
+<p align="center">8 年经验的前端 / 全栈工程师，最近在做 AI Agent 与全栈平台。</p>
 
 📋 作品集 → https://github.com/zzlw/portfolio
 
