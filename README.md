@@ -1,6 +1,10 @@
-### Hi there, I'm Gavin 👋
+<p align="center">
+  <img src="assets/logo.webp" width="168" height="168" alt="Gavin" />
+</p>
 
-9 年经验的前端 / 全栈工程师，最近在做 AI Agent 与全栈平台。
+<h3 align="center">Hi there, I'm Gavin</h3>
+
+<p align="center">9 年经验的前端 / 全栈工程师，最近在做 AI Agent 与全栈平台。</p>
 
 📋 完整作品集（面试官速览 + 项目详解）→ https://github.com/zzlw/portfolio
 

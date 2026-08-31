@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Gavin">
+  <defs>
+    <linearGradient id="gold" x1="18%" y1="8%" x2="86%" y2="92%">
+      <stop offset="0%" stop-color="#F4E6C1"/>
+      <stop offset="28%" stop-color="#E0C48A"/>
+      <stop offset="52%" stop-color="#C4A36A"/>
+      <stop offset="78%" stop-color="#9A7840"/>
+      <stop offset="100%" stop-color="#D9C08A"/>
+    </linearGradient>
+    <linearGradient id="goldSoft" x1="30%" y1="0%" x2="70%" y2="100%">
+      <stop offset="0%" stop-color="#E8D5A8"/>
+      <stop offset="100%" stop-color="#B8954F"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="50%" cy="46%" r="58%">
+      <stop offset="0%" stop-color="#161616"/>
+      <stop offset="100%" stop-color="#070707"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="512" height="512" fill="#070707"/>
+  <rect width="512" height="512" fill="url(#vignette)"/>
+
+  <!-- outer bezel -->
+  <circle cx="256" cy="256" r="186" fill="none" stroke="url(#gold)" stroke-width="1.15"/>
+  <circle cx="256" cy="256" r="174" fill="none" stroke="url(#goldSoft)" stroke-width="0.7" opacity="0.85"/>
+
+  <!-- 12 o'clock diamond -->
+  <rect x="253.2" y="76.6" width="5.6" height="5.6" fill="url(#gold)" transform="rotate(45 256 79.4)"/>
+
+  <!-- chapter ticks -->
+  <line x1="256" y1="430" x2="256" y2="422" stroke="url(#gold)" stroke-width="1.1" stroke-linecap="round"/>
+  <line x1="82" y1="256" x2="90" y2="256" stroke="url(#gold)" stroke-width="1.1" stroke-linecap="round"/>
+  <line x1="430" y1="256" x2="422" y2="256" stroke="url(#gold)" stroke-width="1.1" stroke-linecap="round"/>
+
+  <!-- constructed G -->
+  <path
+    d="M 332.03 225.28 A 82 82 0 1 0 332.03 286.72"
+    fill="none"
+    stroke="url(#gold)"
+    stroke-width="13.5"
+    stroke-linecap="butt"
+    stroke-linejoin="miter"
+  />
+  <line
+    x1="254"
+    y1="256"
+    x2="338"
+    y2="256"
+    stroke="url(#gold)"
+    stroke-width="13.5"
+    stroke-linecap="butt"
+  />
+</svg>
